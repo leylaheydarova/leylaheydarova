@@ -12,7 +12,7 @@ Exploring new technologies and solving challenges through code is something I tr
 
 🚀 Current Projects:
 - 🌐 Personal portfolio
-- 🛠 Final project: Backend for an Airbnb clone
+- 🛠 Final project: Kovser Hediyyeler(e-commerce)
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/leyla-heydarova)
