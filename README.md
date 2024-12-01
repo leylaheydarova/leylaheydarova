@@ -17,6 +17,7 @@ Exploring new technologies and solving challenges through code is something I tr
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/leyla-heydarova)
 - [Email](mailto:lbadalzade@gmail.com)
+- [Portfolio](https://www.leylaheydarova.vercel.app)
 
 
 
