@@ -8,7 +8,7 @@ Exploring new technologies and solving challenges through code is something I tr
 🌟 Skills:
 - 💻 Languages: JavaScript, C#, C++
 - ⚙️ Frameworks: ASP.NET Core, React, Next.js
-- 🛠️ Databases: SQL, MongoDB
+- 🛠️ Databases: MS SQL, MongoDB, PostgreeSQL
 
 🚀 Current Projects:
 - 🌐 Personal portfolio
