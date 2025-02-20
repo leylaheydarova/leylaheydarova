@@ -77,10 +77,4 @@ I'm always eager to learn and improve! Right now, I'm diving deep into Unit Test
 </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
