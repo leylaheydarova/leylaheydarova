@@ -14,9 +14,6 @@ I'm always eager to learn and improve! Right now, I'm diving deep into Unit Test
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leylaheydarova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://s1.ezgif.com/tmp/ezgif-165133d37e9fd2.gif"  />
 
 ###
 
