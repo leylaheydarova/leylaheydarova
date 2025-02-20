@@ -1,23 +1,25 @@
-👋 Hi, I'm Leyla!
+👋 Hey there! I'm Leyla, a passionate Backend Developer with a strong focus on scalable architectures and clean code. Currently, I'm leading and mentoring backend teams at DendClub and GuysGroup, guiding developers in building robust and efficient systems.<br><br>Beyond leadership, I'm actively contributing to multiple projects:<br><br>Exlaqinasir → Project Lead & Frontend Developer<br>KovserHediyyeler → Full-Stack Developer<br>Personal Portfolio → Showcasing my experience & projects<br>I'm always eager to learn and improve! Right now, I'm diving deep into Unit Testing and exploring Angular to expand my frontend expertise.<br><br>💬 You Can Ask Me About...<br>✅ Backend Development (ASP.NET Core, CQRS, Onion Architecture)<br>✅ Building Scalable APIs (RESTful, MediatR, AutoMapper)<br>✅ Database Design & Optimization (PostgreSQL, SQL Server)<br>✅ Full-Stack Development (Next.js, React, TypeScript)<br>✅ Software Architecture & Clean Code Principles<br>✅ Team Leadership & Mentorship<br><br>🎉 I thrive in fast-paced environments, whether it's leading teams, coding for hours, or competing in hackathons. Oh, and I have a habit of refactoring my own code even when it works perfectly. 😆
 
-I'm a full-stack developer (base on Backend Software Development), passionate about coding and continuously improving my skills. 
-I am a winner of Hackathon Challenge including developing clone of Airbnb.com.
-Currently, I'm working on my e-commerce project and building my personal portfolio. 
-Exploring new technologies and solving challenges through code is something I truly enjoy.
 
-🌟 Skills:
-- 💻 Languages: JavaScript, C#, C++
-- ⚙️ Frameworks: ASP.NET Core, React, Next.js
-- 🛠️ Databases: MS SQL, MongoDB, PostgreeSQL
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lilo_heyderova) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leyla-heydarova) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Leyla-Heydarova-2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lbadalzade@gmail.com) [Portfolio](https://www.leylaheydarova.vercel.app)
 
-🚀 Current Projects:
-- 🌐 Personal portfolio
-- 🛠 Final project: Kovser Hediyyeler(e-commerce)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leylaheydarova&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leylaheydarova&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leylaheydarova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/leyla-heydarova)
-- [Email](mailto:lbadalzade@gmail.com)
-- [Portfolio](https://www.leylaheydarova.vercel.app)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leylaheydarova&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leylaheydarova&icon=2&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
