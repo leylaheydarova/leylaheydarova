@@ -5,7 +5,7 @@ Beyond leadership, I'm actively contributing to multiple projects:
 Exlaqinasir → Project Lead & Frontend Developer
 KovserHediyyeler → Full-Stack Developer
 Personal Portfolio → Showcasing my experience & projects
-I'm always eager to learn and improve! Right now, I'm diving deep into Unit Testing and exploring Angular to expand my frontend expertise.</h2>
+I'm always eager to learn and improve! Right now, I'm diving deep into Spring Boot and exploring Angular to expand my frontend expertise.</h2>
 
 ###
 
