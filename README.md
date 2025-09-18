@@ -1,11 +1,24 @@
-<h2 align="left">Hey there 👋! I'm Leyla, a passionate Backend Developer with a strong focus on scalable architectures and clean code. Currently, I'm leading and mentoring backend teams at DendClub and GuysGroup, guiding developers in building robust and efficient systems.
+<h2 align="left">Hey there! 👋 I'm Leyla Heydərova, a passionate Backend Developer with a strong focus on scalable architectures and clean code.
 
-Beyond leadership, I'm actively contributing to multiple projects:
+Currently, I’m:
 
-Exlaqinasir → Project Lead & Frontend Developer
+🚀 Backend Team Lead at Hoxmed Project – leading and mentoring the backend team in building reliable and efficient systems.
+
+🎓 Instructor at CodeLank Academy – teaching Foundations to beginners and Backend Development to advanced learners.
+
+Additionally, I’m managing:
+
+Exlaqi Nasiri → Ongoing project, where I coordinate the team as a project lead.
+
+Previously, I have successfully contributed to:
+
 KovserHediyyeler → Full-Stack Developer
+
+GuysGroup → Backend Developer
+
 Personal Portfolio → Showcasing my experience & projects
-I'm always eager to learn and improve! Right now, I'm diving deep into Spring Boot and exploring Angular to expand my frontend expertise.</h2>
+
+💡 Always eager to learn and grow! Currently diving deeper into Spring Boot and exploring Angular to expand my full-stack expertise.</h2>
 
 ###
 
