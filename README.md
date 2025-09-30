@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Leyla Heydərova, a passionate Backend Developer with a strong focus on scalable architectures and clean code.
+<h2 align="left">Hey there! 👋 I'm Leyla Heydarova, a passionate Backend Developer with a strong focus on scalable architectures and clean code.
 
 Currently, I’m:
 
